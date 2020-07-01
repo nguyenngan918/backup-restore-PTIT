@@ -89,3 +89,6 @@ C:\Users\hieul\Documents\Visual Studio 2015\Projects\BACKUP_RESTORE_NGAN\BACKUP_
 C:\Users\hieul\Documents\Visual Studio 2015\Projects\BACKUP_RESTORE_NGAN\BACKUP_RESTORE_NGAN\obj\Debug\BACKUP_RESTORE_NGAN.exe
 C:\Users\hieul\Documents\Visual Studio 2015\Projects\BACKUP_RESTORE_NGAN\BACKUP_RESTORE_NGAN\obj\Debug\BACKUP_RESTORE_NGAN.pdb
 C:\Users\hieul\Documents\Visual Studio 2015\Projects\BACKUP_RESTORE_NGAN\BACKUP_RESTORE_NGAN\obj\Debug\BACKUP_RESTORE_NGAN.csprojResolveAssemblyReference.cache
+C:\Users\hieul\Documents\Visual Studio 2015\Projects\Backup\Backup-Restore-HK8\BACKUP_RESTORE_NGAN\BACKUP_RESTORE_NGAN\bin\Debug\BACKUP_RESTORE_NGAN.exe.config
+C:\Users\hieul\Documents\Visual Studio 2015\Projects\Backup\Backup-Restore-HK8\BACKUP_RESTORE_NGAN\BACKUP_RESTORE_NGAN\obj\Debug\BACKUP_RESTORE_NGAN.exe
+C:\Users\hieul\Documents\Visual Studio 2015\Projects\Backup\Backup-Restore-HK8\BACKUP_RESTORE_NGAN\BACKUP_RESTORE_NGAN\obj\Debug\BACKUP_RESTORE_NGAN.pdb
