@@ -19,7 +19,7 @@ namespace BACKUP_RESTORE_NGAN
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // hiển thị các database hiện có
+            // hiển thị các database đang hiện có
             String sqlCommand = "SELECT name, database_id" +
                                " FROM sys.databases" +
                                " WHERE(database_id >= 5) AND(NOT(name LIKE N'ReportServer%'))" +
